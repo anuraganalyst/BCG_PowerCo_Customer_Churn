@@ -1,8 +1,8 @@
 # BCG_PowerCo_Customer_Churn
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BCG_Corporate_Logo.svg/800px-BCG_Corporate_Logo.svg.png" alt="BCG" width="400" style="margin-right: 40px;" />  
-  <img src="https://batteryindustry.tech/wp-content/uploads/2024/07/B2024CW00065_web_1600.png" alt="PowerCo" width="400" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BCG_Corporate_Logo.svg/800px-BCG_Corporate_Logo.svg.png" alt="BCG" width="500" style="margin-right: 40px;" />  
+  <img src="https://batteryindustry.tech/wp-content/uploads/2024/07/B2024CW00065_web_1600.png" alt="PowerCo" width="500" />
 </p>
 
 # About PowerCo
